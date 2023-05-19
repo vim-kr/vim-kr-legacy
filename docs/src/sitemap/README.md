@@ -1,6 +1,4 @@
 # 사이트맵
 
-## Mozilla Firefox related
-
-
-## Mozilla Developer Network
+* Vim official page : https://www.vim.org/
+* Neovim official page : https://neovim.io/
