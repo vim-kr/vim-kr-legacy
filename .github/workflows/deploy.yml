@@ -11,7 +11,7 @@ jobs:
       uses: jenkey2011/vuepress-deploy@dev
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: kffug/kffug.github.io
+        TARGET_REPO: vim-kr/vim-kr.github.io
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn install && yarn build
         BUILD_DIR: docs/src/.vuepress/dist/
