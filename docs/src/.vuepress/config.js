@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '전국 파이어폭스 진흥위원회',
+  title: 'Korean Vim User Group',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,50 +34,11 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Life Hack',
-        link: '/life-hack/'
-      },
-      {
-        text: 'Rules',
-        link: '/rules/'
-      },
-      {
         text: 'Sitemap',
         link: '/sitemap/'
       }
     ],
     sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'container-tab',
-          ]
-        }
-      ],
-      '/life-hack/': [
-        {
-          title: "Life Hacks",
-          collapsable: false,
-          children: [
-            '',
-          ]
-        },
-        {
-          title: "for Developers",
-          collapsable: true,
-          children: [
-            '/life-hack/for-developers/',
-            '/life-hack/for-developers/testing-with-container-tab/'
-          ]
-        }
-      ],
       '/sitemap/': [
         {
           title: "Sitemap",

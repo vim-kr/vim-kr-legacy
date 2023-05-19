@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /kffug-logo2.png
-tagline: 이곳은 모질라와 파이어폭스를 좋아하는 분들끼리 소통하는 디스코드 서버 기반 커뮤니티입니다.
+heroImage: /vim-logo.png
+tagline: 이곳은 Vim/Neovim 에디터를 좋아하는 분들끼리 소통하는 디스코드 서버 기반 커뮤니티입니다.
 actionText: 둘러보기 →
-actionLink: /guide/
-footer: 전국 파이어폭스 진흥위원회
+actionLink: /sitemap/
+footer: Korean Vim User Group (vim.kr)
 ---
 
 <div style="display: flex; justify-content: center;">
@@ -13,16 +13,15 @@ footer: 전국 파이어폭스 진흥위원회
 
 <div class="features">
   <div class="feature">
-    <h2>Make Firefox Great Again</h2>
+    <h2>터미널에 기반한 텍스트 편집기</h2>
     <p>
-      저희는 파이어폭스를 사랑하며 그 부흥을 꾀하고 있습니다. 파이어폭스가 만드는 더 안전하고 자유로운 인터넷을 위해 여러분도 참여하세요!
+      Vim은 터미널 환경을 기반으로 동작하는 텍스트 편집기입니다. 터미널 환경에서 동작하는 온갖 CLI 도구와 함께하면 좀 더 풍부한 기능을 확장시킬 수 있습니다.
     </p>
   </div>
   <div class="feature">
-    <h2>안전하고 자유로운 인터넷</h2>
+    <h2>가볍고 빠르다!</h2>
     <p>
-    인터넷에서는 끊임없이 개인정보 유출이 일어나고 있습니다. Firefox는 사용자를 보호할 방법을 지속적으로 찾는 유일한 브라우저입니다.
-    또한 Firefox는 주요 웹 브라우저 중 유일하게 독립적입니다. Chrome, Edge 및 Brave는 모두 세계 최대 광고 네트워크 인 Google의 코드 기반으로 만들어집니다.
+      Vim의 장점은 가볍고 빠르다는 것입니다. 다른 GUI 에디터와는 다르게 메모리/CPU 점유율도 낮은 편이며, 어떤 환경에서든 빠르게 텍스트를 편집할 수 있게 해줍니다.
     </p>
   </div>
   <div class="feature">

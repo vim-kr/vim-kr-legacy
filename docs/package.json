@@ -1,13 +1,13 @@
 {
-  "name": "kffug.github.io",
+  "name": "vim-kr.github.io",
   "version": "0.0.1",
-  "description": "전국 파이어폭스 진흥위원회",
+  "description": "Korean Vim User Group",
   "main": "index.js",
   "authors": {
     "name": "Jaeyeol Lee",
     "email": "kodingwarrior@kakao.com"
   },
-  "repository": "git@github.com:kffug/kffug.github.io",
+  "repository": "git@github.com:vim-kr/vim-kr.github.io",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
